@@ -7,9 +7,8 @@ body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) repeat;
+  background: url(../images/backgrounds/architecture.jpg) top no-repeat;
   background-size: cover;
-  background-repeat: repeat-x;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
